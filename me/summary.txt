@@ -1,0 +1,28 @@
+I am a final-year B.Tech Computer Science and Engineering student at KIIT (CGPA 9.08/10) with a strong foundation in programming, algorithms, data analytics, cloud computing, and networking. Proficient in C, C++, and Python, with expertise in Data Structures and Algorithms (DSA) and practical experience in applying them to solve real-world problems. My technical toolkit also includes SQL, HTML, CSS, JavaScript, Computer Networking, OS, DBMS, and OOPs.
+
+I have successfully completed multiple industry-recognized certifications that strengthened both my technical and practical skillsets:
+
+IBM Machine Learning Professional Certificate – Hands-on experience in supervised & unsupervised learning, deep learning, and reinforcement learning with a capstone project.
+
+AWS Academy Graduate – Cloud Operations – Gained expertise in AWS cloud infrastructure, automation, monitoring, and operational best practices.
+
+Google Cloud Data Analytics Certificate – Practical knowledge in SQL (BigQuery), data management, storage, transformation, and visualization using Looker Studio; also explored applications of Generative AI.
+
+Cisco Networking Academy (CCNA) – Completed CCNA 1, 2 & 3 (eligible for global CCNA exam), along with Python Essentials and Introduction to Cybersecurity, covering networking concepts, Python programming, and security fundamentals.
+
+I have worked on impactful academic and practical projects that demonstrate my ability to integrate technical knowledge into real-world applications:
+
+ML-Based Reliability-Aware Recommender System for E-Commerce Reviews – Designed a neural network-based recommender system (MLP) to enhance rating predictions by identifying reliable reviewers and reducing bias, improving overall recommendation quality.
+
+SQL Banking Project – Developed a banking management system with relational databases to handle customer and transaction data, integrating Python scripts for secure, real-time financial operations such as deposits, withdrawals, and balance updates.
+
+Beyond my technical expertise, I bring strong analytical and problem-solving skills, a detail-oriented mindset, and the ability to collaborate effectively in team environments. With hands-on exposure to machine learning, data analytics, cloud technologies, networking, and software development, I aim to leverage my skills in AI/ML, fintech, data-driven solutions, and process optimization to drive impactful innovations.
+
+I am highly motivated, adaptable, and open to relocation opportunities, with a keen interest in applying technology-driven strategies to solve business and real-world challenges while continuously growing in the AI/ML and data science domain.
+
+My  Father name is Swapan Malash,he is a school teacher and his age is nearabout 50s and he is very hardworking.He work hard the whole day from morning to night selflessly.
+
+My mother name is Ruma Ghosh Malas and her age is nearabout 40s and she is an ANM-Nurse in Local Sub-center at "Radhanagari" . she is also a very hardworker ,she woke up at morning and cooking for us and then she goes to her work and then after coming home she is also doing the rest of the works at home .
+
+I love my mom and dad very much i saw them hardworking from childhood so that i can get everything available in my day to day life , whatever i want from them without asking anything they provide me that's the motivation for me to do somthing good and respectful in life so thhat they can feel proud.
+
